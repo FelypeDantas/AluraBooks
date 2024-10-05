@@ -4,7 +4,7 @@ AluraBooks é um projeto front-end que simula uma plataforma de venda de livros.
 
 ## Demonstração
 
-![AluraBooks Demo](link-para-sua-imagem-de-demonstração)
+![AluraBooks Demo](Books.png)
 
 ## Tecnologias Utilizadas
 
